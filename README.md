@@ -1,3 +1,7 @@
+> [!NOTE]
+> **已转入历史归档（2026-10-19）。** 本仓库保留早期学习与实验记录，不再进行功能开发或依赖维护。原代码、提交历史与来源说明继续保留；请勿直接作为当前生产环境的部署模板。
+> 当前项目与历史导航见 [RayX 的 GitHub 主页](https://github.com/CodeRayZhang)。归档不改变原有许可证，引用或使用第三方内容时请遵循其原作者的授权条件。
+
 # Go语言学习
 
 ## 一、Golang：变量定义（[代码](https://github.com/ZzXxL1994/learngo/blob/master/basic/basic)）
@@ -166,7 +170,3 @@
 - 在不同的goroutine之间存储和传输值 
 - 提供FIFO语义(buffered channel提供) 
 - 可以让goroutine block/unblock
-
-
-
-
